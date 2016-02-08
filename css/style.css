@@ -1,0 +1,23 @@
+html {
+  height: 100%;
+}
+
+body {
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+  background: url(../img/background.jpg) no-repeat;
+  background-size: cover;
+}
+
+.logo {
+  width: 280px;
+  height: 172px;
+  background: url(../img/logo.png) center center no-repeat;
+  background-size: cover;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -140px;
+  margin-top: -86px;
+}
